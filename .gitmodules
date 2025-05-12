@@ -1,3 +1,6 @@
 [submodule "nodeexpress"]
 	path = nodeexpress
 	url = https://github.com/Saif-Arain786/nodeexpress.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Saif-Arain786/nodeexpress.git
